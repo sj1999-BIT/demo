@@ -1,1 +1,1 @@
-# demo
+# Demo repo for lecture.
